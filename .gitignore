@@ -1,2 +1,3 @@
 .idea
-aws.keys
+unused/aws.keys
+.DS_Store
